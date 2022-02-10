@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-
   },
-  "author": "Nelson Ropberts Mmbando",
+  "author": "Nelson Roberts Mmbando",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.0",
+    "lorem-ipsum-cli": "^1.0.0",
     "utils": "^0.3.1"
   }
 }
