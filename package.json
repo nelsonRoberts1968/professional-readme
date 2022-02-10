@@ -7,10 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
 
   },
-  "author": "",
+  "author": "Nelson Ropberts Mmbando",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2",
     "inquirer": "^8.2.0",
     "utils": "^0.3.1"
   }
