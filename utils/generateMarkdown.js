@@ -1,7 +1,6 @@
 
-// do not need license setup outside of generate markdown
 function generateMarkdown(data) {
-  //license
+  //licenses
   let licenseOption = `${data.license}`;
   let licenseLink = '';
   
@@ -43,10 +42,10 @@ function generateMarkdown(data) {
     licenseLink = 'https://choosealicense.com/licenses/agpl-3.0/';
   };
 
-//create variable to hold markdown template and dynamically add to it
+//Create variable to hold markdown template and dynamically add to it
 let markdownTemplate =
     
-//title, badge, and description
+//Title, badge, and description
     
 `# ${data.title}
 ## Description
