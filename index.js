@@ -183,10 +183,10 @@ async function init() {
     const userAnswers = await inquirer.prompt(questions);
     console.log('Thank you! The current data is being processed into your README.md: ', userAnswers);
     // get markdown template from generateMarkdown.js passing the answers as parameter
-    const myMarkdown = generateMarkdown(userAnswers);
-    console.log(myMarkdown);
+    const newMarkDown = generateMarkdown(userAnswers);
+    console.log(newMarkDown);
     //Create the README file after the markdown is completed. 
-    await createReadMe('READMENEW.md', myMarkdown);
+    await createReadMe('READMENEW.md', newMarkDown);
     
   } catch (error) {
     console.log('Sorry there was an error.' + error);
