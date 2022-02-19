@@ -30,9 +30,9 @@ You can access more badges and their purposes at [shields.io](https://shields.io
       
 ## Testing
   _Instructions for testing application:_
-  Users can test on three items.\
-  1. Making sure once you run the node index.js you get a series of prompts.\
-  2. Once you go through all the prompts there should be a new README.md file generated under specified name in you js file.\
+  Users can test on three items.
+  1. Making sure once you run the node index.js you get a series of prompts.
+  2. Once you go through all the prompts there should be a new README.md file generated under specified name in you js file.
   3. Once the file is genrated.The answer to all the prompts should match the categories created in the newly genarated README.md
       
 ## Questions
