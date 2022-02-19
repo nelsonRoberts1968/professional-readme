@@ -16,7 +16,7 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   * [License](#license)
 
 ## APPLICATION VIDEO LINK
-[!Application Video Link](https://www.awesomescreenshot.com/video/7478028)
+[Application Video Link](https://www.awesomescreenshot.com/video/7478028)
     
     
 ## Installation
