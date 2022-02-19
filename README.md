@@ -5,7 +5,7 @@
 # PROFESSIONAL README.md
 ## Description
 Creating a professional README.md Dynamically using command line from users input using prompst from the Inquirer Package.
-![badge](https://img.shields.io/badge/license--brightorange)\
+![badge](https://img.shields.io/badge/license--brightorange)
 
 You can access more badges and their purposes at [shields.io](https://shields.io)
 ## Table of Contents
@@ -16,7 +16,7 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   * [License](#license)
 
 ## APPLICATION VIDEO LINK
-[![Application Video Link](https://www.awesomescreenshot.com/video/7478028)
+[!Application Video Link](https://www.awesomescreenshot.com/video/7478028)
     
     
 ## Installation
