@@ -16,7 +16,7 @@ You can access more badges and their purposes at [shields.io](https://shields.io
 [Application Video Link](https://www.awesomescreenshot.com/video/7477869)
 
 ## Running Application README.md Prompts
-![Prompts](potential-enigma/Develop/assets/images/prompts.png)
+![Prompts](https://user-images.githubusercontent.com/16344305/155255464-9e1bacfc-a07a-4daf-abe9-020fcf18868f.png)
     
     
 ## Installation
