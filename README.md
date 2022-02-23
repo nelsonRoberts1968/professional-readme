@@ -13,7 +13,7 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   * [License](#license)
 
 ## Application Video Link
-[Application Video Link](https://www.awesomescreenshot.com/video/7477869)
+[Application Video Link](https://www.awesomescreenshot.com/video/7477869?key=7d03f8cb749fae6071d9d0dcde8be998)
 
 ## Running Application README.md Prompts
 ![Prompts](https://user-images.githubusercontent.com/16344305/155255464-9e1bacfc-a07a-4daf-abe9-020fcf18868f.png)
